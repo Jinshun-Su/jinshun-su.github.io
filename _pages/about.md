@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Post-Doctoral Research Associate at the Department of Civil & Environmental Engineering at University of Virginia, advise by [Prof. Somayeh Asadi](https://engineering.virginia.edu/faculty/somayeh-asadi) and [Prof. Negin Alemazkoor](https://engineering.virginia.edu/faculty/negin-alemazkoor). I obtained my Ph.D. in Electrical Engineering from The George Washington University, advised by [Prof. Payman Dehghanian](https://ece.engineering.gwu.edu/payman-dehghanian).
+I am currently a Postdoctoral Research Associate at the Department of Civil and Environmental Engineering at University of Virginia, advise by [Prof. Somayeh Asadi](https://engineering.virginia.edu/faculty/somayeh-asadi) and [Prof. Negin Alemazkoor](https://engineering.virginia.edu/faculty/negin-alemazkoor). I obtained my Ph.D. in Electrical Engineering from The George Washington University, advised by [Prof. Payman Dehghanian](https://ece.engineering.gwu.edu/payman-dehghanian).
 
 My research interests include applications of mobile power sources for resilient smart grids, modeling and analysis of decision-dependent uncertainties in energy systems, solutions for optimal public-safety power-shutoffs to build resilience against electrically-induced wildfires.
 
 You can find my CV here: [Jinshun Su's Curriculum Vitae](../assets/CV_JinshunSU.pdf).
 
-A data-driven personal website
+Updates
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **July 2025:** Joined UVA CEE Department and Link Lab as postdoctoral research associate.
+- **May 2025:** Obtained Ph.D. degree from GWU.
+- **May 2025:** Honored to receive the Best Dissertation Award from GWU ECE Department.
 
+<!--
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+ 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
@@ -56,3 +61,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
