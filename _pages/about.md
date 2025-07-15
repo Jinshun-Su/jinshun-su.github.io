@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Post-Doctoral Research Associate at the Department of Civil & Environmental Engineering at University of Virginia, advise by Prof. Somayeh Asadi and Prof. Negin Alemazkoor. I obtained my Ph.D. in Electrical Engineering from The George Washington University, advised by Prof. Payman Dehghanian.
+I am currently a Post-Doctoral Research Associate at the Department of Civil & Environmental Engineering at University of Virginia, advise by [Prof. Somayeh Asadi](https://engineering.virginia.edu/faculty/somayeh-asadi) and [Prof. Negin Alemazkoor](https://engineering.virginia.edu/faculty/negin-alemazkoor). I obtained my Ph.D. in Electrical Engineering from The George Washington University, advised by [Prof. Payman Dehghanian](https://ece.engineering.gwu.edu/payman-dehghanian).
 
-My research interests include applications of mobile power sources for resilient smart grids, modeling and analysis of decision-dependent uncertainties in energy systems, solutions for optimal public-safety power-shutoffs to build resilience against electrically-induced wildfires
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests include applications of mobile power sources for resilient smart grids, modeling and analysis of decision-dependent uncertainties in energy systems, solutions for optimal public-safety power-shutoffs to build resilience against electrically-induced wildfires.
 
 A data-driven personal website
 ======
