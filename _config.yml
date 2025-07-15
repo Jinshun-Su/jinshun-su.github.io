@@ -22,7 +22,7 @@ repository               : "Jinshun-Su/jinshun-su.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC_0414.jpg"
+  avatar           : "../images/DSC_0414.jpg"
   name             : "Jinshun Su"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral research associate at University of Virginia"
