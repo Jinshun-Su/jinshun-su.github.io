@@ -9,28 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+* Ph.D in Electrical Engineering, The George Washington University, 05/2025, USA
+* M.S. in Electrical Engineering, The George Washington University, 05/2019, USA
+* B.Eng. in Electrical Engineering, Xi'an University of Technology, 07/2017, China
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work experience
+* 07/2025 to present, Postdoctoral Research Associate, Department of Civil and Enironmental Engineering at University of Virginia, Charlottesville, VA
+* 03/2024 to 08/2024, Power System Intern - Data Science Consultant, Exelon, Washington, DC
+* 08/2023 to 12/2023, Visiting Researcher (supported by [NSF INTERN Program](https://www.nsf.gov/funding/opportunities/dcl-non-academic-research-internships-graduate-students-intern)), Richland, WA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
