@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Personal Background"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +19,10 @@ redirect_from:
 * 03/2024 to 08/2024, Power System Intern - Data Science Consultant, Exelon, Washington, DC
 * 08/2023 to 12/2023, Visiting Researcher (supported by [NSF INTERN Program](https://www.nsf.gov/funding/opportunities/dcl-non-academic-research-internships-graduate-students-intern)), Richland, WA
 
-
+# Awards
+* 2025 Best Dissertation Award, Department of Electrical and Computer Engineering at The George Washington University
+* 2024 IEEE Industry Application Society (IAS) Electrical Safety through Design Student Education Initiative Award, IEEE IAS Electric Safety Workshop (ESW)
+* 2023 IEEE Industry Application Society (IAS) Electrical Safety through Design Student Education Initiative Award, IEEE IAS Electric Safety Workshop (ESW)
 
   
 Skills
