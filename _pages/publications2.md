@@ -12,7 +12,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Working Paper
 =====
-- R. Zhang, P. Dehghanian, **J. Su**, M. Alhazmi, and D. Celeita, “Enhancing Bulk Electric Grid Resilience against Electromagnetic Pulse (EMP) Events: A Frequency Control-based Mitigation Approach,” **IEEE Transactions on System, Man and Cybernetics**, under review. 
+- R. Zhang, P. Dehghanian, **J. Su**, M. Alhazmi, and D. Celeita, “Enhancing Bulk Electric Grid Resilience against Electromagnetic Pulse (EMP) Events: A Frequency Control-based Mitigation Approach,” **IEEE Transactions on System, Man and Cybernetics**, under review.
+- D. Okpo, C. Zhao, and **J. Su**, "Coulomb Counting-Based SOC Estimation from Real EV Data via LSTM and Transformer Models," 2025 North American Power Symposium, under review.
 
 Journal Articles
 =====
