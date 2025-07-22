@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Working Paper
 =====
 - R. Zhang, P. Dehghanian, **J. Su**, M. Alhazmi, and D. Celeita, “Enhancing Bulk Electric Grid Resilience against Electromagnetic Pulse (EMP) Events: A Frequency Control-based Mitigation Approach,” **IEEE Transactions on System, Man and Cybernetics**, under review.
-- •	P. Dehghanian, M. Lejeune, **J. Su**, and Z. Wang, “Resilience Enhancement in Power Distribution Systems: Chance-Constrained Model with Decision-Dependent Atoms,” **Computers and Operations Research**, under review.
+- P. Dehghanian, M. Lejeune, **J. Su**, and Z. Wang, “Resilience Enhancement in Power Distribution Systems: Chance-Constrained Model with Decision-Dependent Atoms,” **Computers and Operations Research**, under review.
 - D. Okpo, C. Zhao, and **J. Su**, "Coulomb Counting-Based SOC Estimation from Real EV Data via LSTM and Transformer Models," 2025 North American Power Symposium, under review.
 
 Journal Articles
