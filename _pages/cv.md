@@ -15,9 +15,9 @@ redirect_from:
 * B.Eng. in Electrical Engineering, Xi'an University of Technology, 07/2017, China
 
 # Work experience
-* Postdoctoral Research Associate, Department of Civil and Enironmental Engineering at University of Virginia, Charlottesville, VA, 07/2025 to present
-* Power System Intern - Data Science Consultant, Exelon, Washington, DC, 03/2024 to 08/2024
-* Visiting Researcher (supported by [NSF INTERN Program](https://www.nsf.gov/funding/opportunities/dcl-non-academic-research-internships-graduate-students-intern)), Pacific Northwest National Laboratory (PNNL), Richland, WA, 08/2023 to 12/2023
+* Postdoctoral Research Associate, Department of Civil and Enironmental Engineering at **University of Virginia**, Charlottesville, VA, 07/2025 to present
+* Power System Intern - Data Science Consultant, **Exelon**, Washington, DC, 03/2024 to 08/2024
+* Visiting Researcher (supported by [NSF INTERN Program](https://www.nsf.gov/funding/opportunities/dcl-non-academic-research-internships-graduate-students-intern)), **Pacific Northwest National Laboratory (PNNL)**, Richland, WA, 08/2023 to 12/2023
 
 # Awards
 * 2025 Best Dissertation Award, Department of Electrical and Computer Engineering at The George Washington University
