@@ -57,8 +57,10 @@ redirect_from:
 * IEEE Access
 * IET Generation, Transmission & Distribution
 * Scientific Reports
+* Renewable and Sustainable Energy Reviews
 * Reliability Engineering & System Safety
 * Sustainable Energy, Grids and Networks
+* Energy Efficiency
 * Journal of Modern Power System and Clear Energy
 
 
