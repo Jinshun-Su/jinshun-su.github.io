@@ -12,11 +12,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Working Paper
 =====
-- Y. Li, X. Ma, P. Dehghanian, X. Zhang, R. Zhang, B. Vergara, H. Wang, and **J. Su**, “A Hardware-in-the-Loop-Based Digital Twin Cyber-Physical System for Microgrids,” 2025 IEEE Power and Energy Society (PES) Innovative Smart Grid Technologies-Asia (ISGT-Asia), under review.
-- H. Wang, P. Huang, **J. Su**, N. Pourghaderi, P. Dehghanian, M. Alhazmi, and D. Celeita, “Startup and Shutdown Strategies of Parallel-Connected Hybrid DRU-MMC HVDC Systems for Offshore Wind Power Integration,” **IEEE Transactions on Industry Application**, under review.
+- Y. Li, X. Ma, P. Dehghanian, X. Zhang, R. Zhang, B. Vergara, H. Wang, and **J. Su**, “A Hardware-in-the-Loop-Based Digital Twin Cyber-Physical System for Microgrids,” 2025 IEEE Power and Energy Society (PES) Innovative Smart Grid Technologies-Asia (ISGT-Asia), accepted.
 - R. Zhang, P. Dehghanian, **J. Su**, M. Alhazmi, and D. Celeita, “Enhancing Bulk Electric Grid Resilience against Electromagnetic Pulse (EMP) Events: A Frequency Control-based Mitigation Approach,” **IEEE Transactions on System, Man and Cybernetics**, under review.
 - P. Dehghanian, M. Lejeune, **J. Su**, and Z. Wang, “Resilience Enhancement in Power Distribution Systems: Chance-Constrained Model with Decision-Dependent Atoms,” **Computers and Operations Research**, under review.
-- D. Okpo, C. Zhao, and **J. Su**, "Coulomb Counting-Based SOC Estimation from Real EV Data via LSTM and Transformer Models," 2025 North American Power Symposium, under review.
+- D. Okpo, C. Zhao, and **J. Su**, "Coulomb Counting-Based SOC Estimation from Real EV Data via LSTM and Transformer Models," 2025 North American Power Symposium, accepted.
 
 Journal Articles
 =====
