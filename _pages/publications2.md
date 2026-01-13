@@ -60,7 +60,8 @@ Conference Papers
 
 - [C1] S. Wang, P. Dehghanian, M. Alhazmi, **J. Su** and B. Shinde, “Resilience-Assured Protective Control of DC/AC Inverters Under Unbalanced and Fault Scenarios,” *2019 IEEE Power and Energy Society (PES) Conference on Innovative Smart Grid Technologies-North America*, 18-21 Feb. 2019, Washington DC, USA. 
 
-
+====
+[Electronic Appendix 1](../assets/Ele_App_DDU_PSPS.pdf)
 
 
 
