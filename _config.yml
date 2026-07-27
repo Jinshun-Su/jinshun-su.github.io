@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jinshun Su"
+title                    : "Jinshun Su's Homepage"
 title_separator          : "-"
 name                     : &name "Jinshun Su"
 description              : 
@@ -25,11 +25,11 @@ author:
   avatar           : "../images/JS.jpg"
   name             : "Jinshun Su"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral research associate at University of Virginia"
-  location         : "Charlottesville, VA"
+  bio              : "Incoming Assistant Professor at Tennessee Tech University"
+  location         : "Cookeville, TN"
   employer         : #
   uri              : # URL
-  email            : "jex2sg@virginia.edu" 
+  email            : "jinshunsu@tntech.edu" 
 
   # Academic websites
   academia         : # URL
