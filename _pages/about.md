@@ -7,11 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Associate at the Department of Civil and Environmental Engineering at University of Virginia, advise by [Prof. Somayeh Asadi](https://engineering.virginia.edu/faculty/somayeh-asadi) and [Prof. Negin Alemazkoor](https://engineering.virginia.edu/faculty/negin-alemazkoor). I obtained my Ph.D. in Electrical Engineering from The George Washington University, advised by [Prof. Payman Dehghanian](https://ece.engineering.gwu.edu/payman-dehghanian).
+I am an **Assistant Professor** in the [Department of Electrical and Computer Engineering](https://www.tntech.edu/engineering/programs/ece/index.php) at [Tennessee Technological University](https://www.tntech.edu/). Before joining Tennessee Tech, I was a Postdoctoral Research Associate at the Department of Civil and Environmental Engineering at University of Virginia, advise by [Prof. Somayeh Asadi](https://engineering.virginia.edu/faculty/somayeh-asadi) and [Prof. Negin Alemazkoor](https://engineering.virginia.edu/faculty/negin-alemazkoor). I obtained my Ph.D. in Electrical Engineering from The George Washington University, advised by [Prof. Payman Dehghanian](https://ece.engineering.gwu.edu/payman-dehghanian).
 
-My research interests include applications of mobile power sources for resilient smart grids, modeling and analysis of decision-dependent uncertainties in energy systems, solutions for optimal public-safety power-shutoffs to build resilience against electrically-induced wildfires.
+My research interests include power system resilience, data-informed decision-making for disaster management in electrical systems, cyber-physical security of power systems, optimization and machine learning applications in integrated energy infrastructures. 
 
 You can find my CV here: [Jinshun Su's Curriculum Vitae](../assets/CV_JinshunSU.pdf).
+
+Openings
+======
+I am seeking self-motivated Ph.D. students to join my research group in the Department of Electrical and Computer Engineering at Tennessee Technological University, with opportunities starting in Spring 2027 or Fall 2027.
+
+Students with a background in electrical engineering, power systems, optimization, machine learning, or related areas are encouraged to apply. We are particularly interested in students with strong interests in the following areas:
+
+- Power System Resilience
+- AI for Power and Energy Systems
+- Optimization and Decision-Making Under Uncertainty
+
+If you are interested, please send your CV to jinshunsu@tntech.edu with the subject line **“PhD Application + Your Name.”** Thank you!
 
 Updates
 ======
