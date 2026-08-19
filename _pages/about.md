@@ -21,7 +21,8 @@ Students with a background in electrical engineering, power systems, optimizatio
 
 - Power System Resilience
 - AI for Power and Energy Systems
-- Optimization and Decision-Making Under Uncertainty
+- Optimization and Decision-Making for Power System 
+- Power System Hardware-in-the-Loop (HIL) Simulation
 
 If you are interested, please send your CV to jinshunsu@tntech.edu with the subject line **“PhD Application + Your Name.”** Thank you!
 
